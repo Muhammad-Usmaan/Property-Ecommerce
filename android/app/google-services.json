@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "342474686043",
+    "project_id": "quick-medical",
+    "storage_bucket": "quick-medical.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342474686043:android:5cb825f750961b747b897e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_prac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAalcnuETgnxhLwJ5zri67s1OocMLDb3bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342474686043:android:4ad5e6fee786683b7b897e",
+        "android_client_info": {
+          "package_name": "com.example.property_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAalcnuETgnxhLwJ5zri67s1OocMLDb3bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342474686043:android:e8fe4265badbdef17b897e",
+        "android_client_info": {
+          "package_name": "com.example.quick_medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAalcnuETgnxhLwJ5zri67s1OocMLDb3bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
